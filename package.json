@@ -1,5 +1,5 @@
 {
-  "name"          : "underscore.ext.js",
+  "name"          : "underscore-ext",
   "description"   : "Some handy utils added to the underscore namespace.",
   "author"        : "Jesse Tane <jesse@twosixheave.com>",
   "main"          : "underscore.ext.js",
