@@ -3,5 +3,5 @@
   "description"   : "Assorted underscore plugins",
   "author"        : "Jesse Tane <jesse.tane@gmail.com>",
   "main"          : "underscore-ext.js",
-  "version"       : "0.0.1"
+  "version"       : "0.0.2"
 }
